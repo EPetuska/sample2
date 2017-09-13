@@ -1,0 +1,41 @@
+html{
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+a {
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: center;
+}
+
+video {
+  object-fit: contain;
+  align-content: center;
+}
+
+h2 {
+  font-family:Verdana;
+  font-weight:300;
+  color:white;
+  font-size:42px;
+}
+
+#sell {
+  font-family:Verdana;
+  font-size:21px;
+  color:gray;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
